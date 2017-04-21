@@ -1,4 +1,4 @@
-baseURL = "http://gdperkins.github.io"
+baseURL = "https://gdperkins.github.io"
 languageCode = "en-us"
 title = "gdperkins"
 theme = "hyde"
